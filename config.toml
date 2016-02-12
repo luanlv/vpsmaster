@@ -1,0 +1,52 @@
+baseurl = "http://vpsmaster.net/"
+title = "vpsmaster"
+theme = "hugo-theme-shiori"
+languageCode = "en-us"
+copyright = "My Name"
+googleAnalytics = "XXX"
+disqusShortname = "XXX"
+author = "Shu Uesugi"
+
+[Author]
+    name = "My Name"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[Params]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/XXX"
+    linkedin = "https://linkedin.com/in/XXX/"
+    gplus = "https://google.com/+XXX"
+    twitter = "https://twitter.com/XXX"
+    stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
+    author_name = "Shu Uesugi"
+    twitter_username = "chibicode"
+    gravatar_id = "d747ad92018acd87a77899704fc6693d"
+[Permalinks]
+    post = "/post/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "category"
+    url = "/categories"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4

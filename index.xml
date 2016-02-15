@@ -7,40 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Thu, 11 Feb 2016 02:43:55 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2016 10:31:22 +0700</lastBuildDate>
     <atom:link href="http://vpsmaster.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Welcome to my blog!</title>
-      <link>http://vpsmaster.net/post/welcome-to-my-blog/</link>
-      <pubDate>Thu, 11 Feb 2016 02:43:55 +0700</pubDate>
+      <title>Welcome</title>
+      <link>http://vpsmaster.net/post/welcome/</link>
+      <pubDate>Mon, 15 Feb 2016 10:31:22 +0700</pubDate>
       
-      <guid>http://vpsmaster.net/post/welcome-to-my-blog/</guid>
-      <description>
+      <guid>http://vpsmaster.net/post/welcome/</guid>
+      <description>&lt;p&gt;Hello everyone! I run this blog for sharing my experiences about VPS.
+It hard at the beginning but believe me, you can do it.
+If you have any questions feel free to ask and I will answer as soon as possible.&lt;/p&gt;
 
-&lt;p&gt;Hello! Welcome to my personal Blog. I hope to share with you here a little about what I have gone through in my life. Your opinions and comments are more than welcome, so feel free to share them with everyone!&lt;/p&gt;
+&lt;p&gt;This blog will focus primarily on setup VPS for website.
+Here you will learn how to setup your VPS and how to run your website at beginning.
+Beside I will review some good and reliable VPS providers.
+And I will share Coupons, Promo Codes and Discounts about VPS or domain.&lt;/p&gt;
 
-&lt;h3 id=&#34;who-am-i:053bf8bb426e6b83bb5b05adf70a5076&#34;&gt;Who am I?&lt;/h3&gt;
-
-&lt;p&gt;Why do you read my blog? For who I am or for content? I write this blog anonymously not because I do not want people to know who I am but because I want this blog to be a place I can explain my thoughts, my ideas.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-am-i-writing-this-blog:053bf8bb426e6b83bb5b05adf70a5076&#34;&gt;Why am I writing this blog?&lt;/h3&gt;
-
-&lt;p&gt;I blog because it gives me freedom to express in whatever way I feel right.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-will-i-be-blogging-about:053bf8bb426e6b83bb5b05adf70a5076&#34;&gt;What will I be blogging about?&lt;/h3&gt;
-
-&lt;p&gt;I will post on a variety of different topics. But I will focus on some topics, example:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learning English (My English skill is not good, so I will write all in English. Practice make perfect, right?)&lt;/li&gt;
-&lt;li&gt;My Thoughts, My Feelings and My Life. (same as other personal blogs)&lt;/li&gt;
-&lt;li&gt;Some technology (I&amp;rsquo;m a web developer)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;how-can-you-leave-feedback:053bf8bb426e6b83bb5b05adf70a5076&#34;&gt;How can you leave feedback?&lt;/h3&gt;
-
-&lt;p&gt;You can leave your comments. For private please email to me, my email address is: &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Thank you for reading!&lt;/p&gt;
 </description>
     </item>
     

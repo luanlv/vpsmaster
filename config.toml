@@ -1,10 +1,10 @@
-baseurl = "http://vpsmaster.net/"
+baseurl = "http://vpsmaster.net"
 title = "vpsmaster"
 theme = "hugo-theme-shiori"
 languageCode = "en-us"
 copyright = "My Name"
 googleAnalytics = "XXX"
-disqusShortname = "XXX"
+disqusShortname = "vpsmaster"
 author = "Shu Uesugi"
 
 [Author]

@@ -7,40 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Mon, 15 Feb 2016 20:12:50 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 20:12:50 +0700</lastBuildDate>
     <atom:link href="http://vpsmaster.net/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Some vocabulary words you should know to deploy your website</title>
-      <link>http://vpsmaster.net/post/some-vocabulary-words-you-should-know-to-deploy-your-website/</link>
-      <pubDate>Mon, 15 Feb 2016 20:12:50 +0700</pubDate>
+      <title>Some words you should know to run your server</title>
+      <link>http://vpsmaster.net/post/some-words-you-should-know-to-run-your-server/</link>
+      <pubDate>Thu, 18 Feb 2016 20:12:50 +0700</pubDate>
       
-      <guid>http://vpsmaster.net/post/some-vocabulary-words-you-should-know-to-deploy-your-website/</guid>
+      <guid>http://vpsmaster.net/post/some-words-you-should-know-to-run-your-server/</guid>
       <description>&lt;p&gt;There are some words you should know to learn more effectively.
 Don&amp;rsquo;t try to learn by heart at the same time.
-You will see more time in my future article.&lt;/p&gt;
+You will see more in this website.
+I will explain with a simple way to make it easy to understand.
+For full detail please search on Google or leave a comment below.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;VPS (Virtual private server)&lt;/strong&gt;
-A virtual private server (VPS) is a virtual machine sold as a service by an Internet hosting service. A VPS runs its own copy of an operating system, and customers have superuser-level access to that operating system instance, so they can install almost any software that runs on that OS. You can read more in &lt;a href=&#34;https://en.wikipedia.org/wiki/Virtual_private_server&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+A virtual private server is a virtual machine (not real). There are many virtual machines that can be run on one physical server.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Dedicated Server&lt;/strong&gt;
-A dedicated server is exactly what it sounds like. The entire physical server is yours to use, and yours alone. Depending on whether you want it to be self-managed or managed by the hosting company, you can do pretty much anything you wish with the server.&lt;/p&gt;&lt;/li&gt;
+A dedicated server is exactly what it sounds like. The entire physical server is yours to use, and yours alone.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Hosting&lt;/strong&gt;
-Hosting (also known as Web site hosting, Web hosting, and Webhosting) is the business of housing, serving, and maintaining files for one or more Web sites.&lt;/p&gt;&lt;/li&gt;
+Hosting (Web Hosting) is the service providing space on the Internet for websites. To make your web site visible to the world, you&amp;rsquo;ll have to store it on a web server.The scope of web hosting services varies greatly. The most basic is web page and small-scale file hosting, where files can be uploaded via File Transfer Protocol (FTP) or a Web interface.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Website Domain&lt;/strong&gt;:
-A website domain, often called a domain, is the name of the website or URL.&lt;/p&gt;&lt;/li&gt;
+A website domain, often called a domain, is the name of the website or URL. You can see my domain is &amp;ldquo;vpsmaster.net&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;DNS (Domain Name System)&lt;/strong&gt;&lt;br /&gt;
 DNS is an abbreviation for Domain Name System, a system for naming computers and network services that is organized into a hierarchy of domains. DNS naming is used in TCP/IP networks, such as the Internet, to locate computers and services through user-friendly names.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;CDN (Content Delivery Network)&lt;/strong&gt;
-A content delivery network (CDN) is a system of distributed servers (network) that deliver webpages and other Web content to a user based on the geographic locations of the user, the origin of the webpage and a content delivery server.&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;IP address&lt;/strong&gt;
-A unique string of numbers separated by periods that identifies each computer using the Internet Protocol to communicate over a network.&lt;/p&gt;&lt;/li&gt;
+A unique string of numbers separated by periods. Example you type &amp;ldquo;ip&amp;rdquo; on google search, you can see your public IP in the first result.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;CDN (Content Delivery Network)&lt;/strong&gt;
+A content delivery network (CDN) is a system of distributed servers (network) that deliver webpages and other Web content to a user based on the geographic locations of the user, the origin of the webpage and a content delivery server. Using CDN will make your website faster.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ping&lt;/strong&gt;
+The ping is the reaction time of your connection.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Bandwidth&lt;/strong&gt;
+Bandwidth is also defined as the amount of data that can be transmitted in a fixed amount of time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Port Speed&lt;/strong&gt;
+Port speed is in reference to the maximum amount of data that can pass through the port at a given second on the switches that connect your server to the Internet. The unit of measurement is in megabits per second (Mbps) or gigabits per second (Gbps).&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;And more &amp;hellip; I will update frequency.&lt;/p&gt;
